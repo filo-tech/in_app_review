@@ -46,7 +46,7 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 22
     }
     dependencies {
         // Release notes: https://developer.android.com/reference/com/google/android/play/core/release-notes-in_app_reviews
